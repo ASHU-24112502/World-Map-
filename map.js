@@ -5,6 +5,7 @@
 }());
 
 // Constants
+//new
 var iCANVAS_START_X_POS = 0,
 iCANVAS_START_Y_POS = 0,
 iCANVAS_HEIGHT = 790,
